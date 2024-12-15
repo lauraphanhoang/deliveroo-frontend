@@ -9,6 +9,8 @@
 
 Replique du front du site de  Deliveroo avec React.
 
+Deploiement sur Netlify : <a href="https://deliveroo-lph.netlify.app/"  target="_blank"> https://deliveroo-lph.netlify.app/ </a>
+
 <p align="center">
 <img src="https://res.cloudinary.com/dkfawp1r9/image/upload/f_auto,q_auto/nhg6wlshsxnkcrgkqbxl" width="500" title="Vinted frontend "  alt="Vinted frontend"></a>
 </p>
